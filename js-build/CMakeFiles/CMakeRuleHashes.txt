@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+28c73781e960d508e09f257c50108d53 protos/ast.capnp.h

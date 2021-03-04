@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -Wextra -Werror -std=c++0x -fPIC -Wno-unknown-pragmas -g -O3 -DNDEBUG  -shared -Wl,-soname,libword_bag_ops.so -o libword_bag_ops.so CMakeFiles/word_bag_ops.dir/src/cpp/tensorflow/word_bag_to_tensor.cpp.o  -L/data/billy/venv/lib/python3.5/site-packages/tensorflow -ltensorflow_framework -Wl,-rpath,/data/billy/venv/lib/python3.5/site-packages/tensorflow 

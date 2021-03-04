@@ -1,0 +1,2 @@
+compression_type: GZIP
+batch_size: 16384

@@ -1,0 +1,18 @@
+shuffle_buffer_size : 128
+positive_weight_ratio : 100
+log_level : INFO
+tf_log_level : INFO
+
+c_module_dir : /root/js-build
+
+log_step_count_steps : 10000
+save_summary_steps : 10000
+prefetch_amount : 2
+
+n_features : 262144             # 2**18 recommended by scipy
+classifier_name : custom_dnn_classifier
+dnn_hidden_units :
+  - 500
+  - 250
+  - 125
+dnn_embedding_size : 64

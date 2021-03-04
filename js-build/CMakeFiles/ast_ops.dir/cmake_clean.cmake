@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "protos/ast.capnp.h"
+  "protos/ast.capnp.c++"
+  "protos/labeleddata.capnp.h"
+  "protos/labeleddata.capnp.c++"
+  "protos/logrecord.capnp.c++"
+  "protos/logrecord.capnp.h"
+  "protos/simplifiedast.capnp.c++"
+  "protos/simplifiedast.capnp.h"
+  "protos/closuredata.capnp.c++"
+  "protos/closuredata.capnp.h"
+  "protos/astpath.capnp.c++"
+  "protos/astpath.capnp.h"
+  "CMakeFiles/ast_ops.dir/src/cpp/tensorflow/ast_to_tensor.cpp.o"
+  "CMakeFiles/ast_ops.dir/protos/ast.capnp.c++.o"
+  "CMakeFiles/ast_ops.dir/protos/labeleddata.capnp.c++.o"
+  "CMakeFiles/ast_ops.dir/protos/logrecord.capnp.c++.o"
+  "CMakeFiles/ast_ops.dir/protos/simplifiedast.capnp.c++.o"
+  "CMakeFiles/ast_ops.dir/protos/closuredata.capnp.c++.o"
+  "CMakeFiles/ast_ops.dir/protos/astpath.capnp.c++.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/value_cache.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/js_value.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/js_string.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/js_string_builder.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/logger.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/log_record_reader.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/iterator.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/random_numbers.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/ast_to_nodes.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/csv/csv_writer.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/assert.cpp.o"
+  "CMakeFiles/ast_ops.dir/src/cpp/exception.cpp.o"
+  "libast_ops.pdb"
+  "libast_ops.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ast_ops.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

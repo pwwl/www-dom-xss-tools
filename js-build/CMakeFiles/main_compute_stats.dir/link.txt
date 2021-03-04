@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Werror -std=c++0x -fPIC -Wno-unknown-pragmas -g -O3 -DNDEBUG   CMakeFiles/main_compute_stats.dir/src/cpp/stats/compute_stats.cpp.o  -o main_compute_stats  -L/data/billy/venv/lib/python3.5/site-packages/tensorflow -rdynamic libstats_library.a -lz -Wl,-rpath,/data/billy/venv/lib/python3.5/site-packages/tensorflow 

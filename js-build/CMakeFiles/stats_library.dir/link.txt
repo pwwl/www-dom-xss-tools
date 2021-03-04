@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstats_library.a  CMakeFiles/stats_library.dir/src/cpp/stats/json_lines_reader.cpp.o CMakeFiles/stats_library.dir/src/cpp/stats/file_line_reader.cpp.o CMakeFiles/stats_library.dir/src/cpp/stats/uniq_feat_key.cpp.o CMakeFiles/stats_library.dir/src/cpp/stats/uniq_feat_key_map.cpp.o CMakeFiles/stats_library.dir/src/cpp/stats/compute_stats_helper.cpp.o CMakeFiles/stats_library.dir/src/cpp/csv/csv_writer.cpp.o CMakeFiles/stats_library.dir/src/cpp/assert.cpp.o
+/usr/bin/ranlib libstats_library.a
