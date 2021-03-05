@@ -3,7 +3,7 @@ positive_weight_ratio : 100
 log_level : INFO
 tf_log_level : INFO
 
-c_module_dir : /root/js-build
+c_module_dir : js-build
 
 log_step_count_steps : 10000
 save_summary_steps : 10000
