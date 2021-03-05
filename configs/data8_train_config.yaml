@@ -2,9 +2,9 @@ train_epochs : 1
 batch_size: 64
 use_train_and_evaluate : True
 
-# For any GZIP file
+# For GZIP inputs
 compression_type: GZIP
 
-# For any UNXZ file
+# For LZMA (.xz) inputs
 # compression_type: LZMA
 # file_format: lines-cache
