@@ -1,6 +1,6 @@
 # www-dom-xss-tools
 
-This respository contains scripts for parsing training data and models related to WWW 2021 paper: Towards a Lightweight, Hybrid Approach for Detecting DOM XSS Vulnerabilities with Machine Learning
+This respository contains scripts for parsing training data and models related to the [WWW 2021](https://www2021.thewebconf.org/) paper: [Towards a Lightweight, Hybrid Approach for Detecting DOM XSS Vulnerabilities with Machine Learning](https://clementfung.me/gallery/papers/www2021-final.pdf).
 
 The datasets used in this study, as well as files for pre-trained models, can also be found at [the following link](https://doi.org/10.1184/R1/13870256).
 
