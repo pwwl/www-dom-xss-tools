@@ -2,6 +2,21 @@
 
 This respository contains scripts for parsing training data and models related to the [WWW 2021](https://www2021.thewebconf.org/) paper: [Towards a Lightweight, Hybrid Approach for Detecting DOM XSS Vulnerabilities with Machine Learning](https://clementfung.me/gallery/papers/www2021-final.pdf).
 
+### Bibtex
+
+```
+@inproceedings{domxss-ml:www2021,
+  title =        {Towards a Lightweight, Hybrid Approach for Detecting {DOM} {XSS} Vulnerabilities with Machine Learning},
+  author =       {William Melicher and Clement Fung and Lujo Bauer and Limin Jia},
+  booktitle =    {Proceedings of The Web Conference},
+  year =         2021,
+  url =          {https://www.ece.cmu.edu/~lbauer/papers/2021/www2021-dom-xss-dnn.pdf},
+  doi =          {10.1145/3442381.3450062},
+  copyright =    {International World Wide Web Conference Committee},
+  license =      {CC-BY 4.0},
+}
+```
+
 The datasets used in this study, as well as files for pre-trained models, can also be found at [the following link](https://doi.org/10.1184/R1/13870256).
 
 ## Requirements
